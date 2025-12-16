@@ -33,10 +33,9 @@ The analysis focuses on three critical financial KPIs:
 * **Technique:** Programmatic Dashboarding (automating financial reporting without external BI tools).
 
 ## 📉 Dashboard Visualization
-*(Please see the generated dashboard image below)*
 
-![Dashboard Image](<img width="1513" height="933" alt="image" src="https://github.com/user-attachments/assets/e7e560f4-7e8e-4ab9-8811-f5aa98b5895f" />
-)
+<img width="1513" height="933" alt="image" src="https://github.com/user-attachments/assets/e7e560f4-7e8e-4ab9-8811-f5aa98b5895f" />
+
 
 
 ## 🚀 How to Run
